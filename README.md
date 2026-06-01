@@ -162,7 +162,7 @@ _Add screenshots of your application here._
 
 ## 👩‍💻 Author
 
-**Latshitha Mahendran**
+**Naveen kumar G**
 
 Developed as part of a Full Stack Web Development Take-Home Assignment.
 
